@@ -1,6 +1,6 @@
 #include <stdio.h>
-int main()
-{
-printf("Nasr_53");
+int x;
+int y;
+
 return 0;
 }
